@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "ALX"
+^C
+
+
+clear
+root@82e099163f62:/alx-pre_course/bash#clear
+root@82e099163f62:/alx-pre_course/bash# clear
+root@82e099163f62:/alx-pre_course/bash# cat > school
+#!/bin/bash
+echo "School"
+root@82e099163f62:/alx-pre_course/bash git add .
+root@82e099163f62:/alx-pre_course/bash# git add .
+-c
